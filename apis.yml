@@ -58,7 +58,7 @@ common:
 - type: DomainSecurity
   url: security/simple-feast-domain-security.yml
 - type: Website
-  url: https://food.simplefeast.com/en?
+  url: https://food.simplefeast.com/en
 x-enrichment:
   date: '2026-07-21'
   status: minimal
