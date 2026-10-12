@@ -1,0 +1,16 @@
+generated: '2026-10-12'
+method: none
+source:
+- https://zapier.com/apps/simple-feast/integrations
+- https://n8n.io/integrations/simple-feast/
+- https://composio.dev/toolkits/simple-feast
+- https://monid.ai/tools/simple-feast
+checked:
+- https://composio.dev/toolkits/simple-feast
+- https://monid.ai/tools/simple-feast
+- https://n8n.io/integrations/simple-feast/
+- https://zapier.com/apps/simple-feast/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
